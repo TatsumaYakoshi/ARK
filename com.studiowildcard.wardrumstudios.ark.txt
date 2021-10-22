@@ -1,0 +1,82 @@
+[BEGIN]
+
+-Made by TatsumaYakoshi
+
+ARK Modded Save:
+
+Load game at least Once & Close before Patching
+
+(Needs ROOT)
+
+Features:
+
+Level 100
+
+VIP
+
+God Console Unlocked 
+
+All Structures Unlocked
+
+All Engrams Unlocked
+
+All ARKetypes Unlocked
+
+All Ascendant Creatures Unlocked
+
+Lots of Amber
+
+https://YouTube.com/TatsumaYakoshi
+
+https://Insstagram.com/TatsumaYakoshi
+
+[COPY_FILE]
+{"file_name":"LocalPlayer.arkprofile"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/SavedArksLocal/LocalPlayer.arkdata"}
+
+[COPY_FILE]
+{"file_name":"LocalPlayer.profilebak"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/SavedArksLocal/LocalPlayer.profilebak"}
+
+[COPY_FILE]
+{"file_name":"M_TheIsland_PreviousSave.bak"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/SavedArksLocal/M_TheIsland_PreviousSave.bak"}
+
+[COPY_FILE]
+{"file_name":"LocalPlayer.arkprofile"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/SavedArksLocal/LocalPlayer.arkprofile"}
+
+[COPY_FILE]
+{"file_name":"M_TheIsland.tmp"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/SavedArksLocal/M_TheIsland.tmp"}
+
+[COPY_FILE]
+{"file_name":"M_TheIsland.tmp2"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/SavedArksLocal/M_TheIsland.tmp2"}
+
+
+[COPY_FILE]
+{"file_name":"PlayerLocalData.arkprofile"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/file/ShooterGame/Saved/LocalProfiles/PlayerLocalData.arkprofile"}
+
+[COPY_FILE]
+{"file_name":"GameUserSettings.ini"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/Config/Android/GameUserSettings.ini"}
+
+[COPY_FILE]
+{"file_name":"Game.ini"}
+
+{"to":"/data/data/com.studiowildcard.wardrumstudios.ark/files/ShooterGame/Saved/Config/Android/Game.ini"}
+
+
+[END]
+
+Save Edited Enjoy 
